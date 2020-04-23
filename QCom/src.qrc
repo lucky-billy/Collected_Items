@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>src/add.png</file>
+        <file>src/mesage.png</file>
+        <file>src/open.png</file>
+        <file>src/save.png</file>
+        <file>src/stop.png</file>
+        <file>src/clearbytes.png</file>
+        <file>src/time.png</file>
+        <file>src/loadfile.png</file>
+        <file>src/send.png</file>
+        <file>src/edit-clear.png</file>
+        <file>src/exit.png</file>
+        <file>src/pause.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>src/cleanport.png</file>
+        <file>src/write2file.png</file>
+        <file>src/logo.png</file>
+        <file>src/header.bmp</file>
+        <file>src/lcd.bmp</file>
+        <file>src/yafeilinux.PNG</file>
+        <file>src/linuxico.png</file>
+    </qresource>
+</RCC>
