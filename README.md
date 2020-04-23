@@ -1,8 +1,8 @@
 # Collected_Items
 
-### 2048 - 2048 game
+### 2048 - Game 2048
 
-### CCLook - Link game
+### CCLook - Game Link
 
 ### Calcular - Calculator demo
 
@@ -19,3 +19,5 @@
 ### DominoCalendar - Calendar demo
 
 ### Weather - Weather demo
+
+### FlappyBird - Game FlappyBird
