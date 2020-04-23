@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Icon.ico</file>
+        <file>Images/flag-cn.ico</file>
+        <file>Images/Configure.ico</file>
+        <file>Images/Clock.ico</file>
+        <file>Images/Help.ico</file>
+        <file>Images/go-jump-today.ico</file>
+        <file>Images/ShowToday.ico</file>
+    </qresource>
+</RCC>

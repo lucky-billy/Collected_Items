@@ -1,0 +1,7 @@
+openssl genrsa -des3 -out ca_privkey.pem 4096
+openssl req -new -x509 -key ca_privkey.pem -out ca_cert.pem -days 16384
+
+openssl genrsa -out svr_privkey.pem 4096
+openssl req -new -key svr_privkey.pem -out svr_cert.csr
+
+openssl ca -keyfile ca_privkey.pem -outdir . -in svr_cert.csr -out svr_cert.pem -cert ca_cert.pem -days 7200

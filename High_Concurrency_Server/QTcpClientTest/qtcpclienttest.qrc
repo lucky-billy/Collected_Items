@@ -1,0 +1,92 @@
+<RCC>
+  <qresource prefix="QTcpClientTest">
+    <file>Resources/_40Icon Silver Reverse.png</file>
+    <file>Resources/+_Sign.png</file>
+    <file>Resources/+_Sign_Alt.png</file>
+    <file>Resources/0_9.png</file>
+    <file>Resources/3floppy_mount-1.png</file>
+    <file>Resources/3floppy_mount-2.png</file>
+    <file>Resources/3floppy_mount-3.png</file>
+    <file>Resources/3floppy_mount.png</file>
+    <file>Resources/3floppy_unmount-1.png</file>
+    <file>Resources/3floppy_unmount-2.png</file>
+    <file>Resources/3floppy_unmount-3.png</file>
+    <file>Resources/3floppy_unmount-4.png</file>
+    <file>Resources/3floppy_unmount.png</file>
+    <file>Resources/010-3.png</file>
+    <file>Resources/10-3.png</file>
+    <file>Resources/019-1.png</file>
+    <file>Resources/19-1.png</file>
+    <file>Resources/019-3.png</file>
+    <file>Resources/27_Martin.png</file>
+    <file>Resources/033-1.png</file>
+    <file>Resources/37.png</file>
+    <file>Resources/049-1.png</file>
+    <file>Resources/0062.png</file>
+    <file>Resources/0098.png</file>
+    <file>Resources/0104.png</file>
+    <file>Resources/0109.png</file>
+    <file>Resources/0126.png</file>
+    <file>Resources/165c, 180c.png</file>
+    <file>Resources/3018.png</file>
+    <file>Resources/4003.png</file>
+    <file>Resources/4011.png</file>
+    <file>Resources/4013.png</file>
+    <file>Resources/4018.png</file>
+    <file>Resources/4021.png</file>
+    <file>Resources/A-1 009.png</file>
+    <file>Resources/Alienware (13).png</file>
+    <file>Resources/Alienware (27).png</file>
+    <file>Resources/Alienware (28).png</file>
+    <file>Resources/Alienware (29).png</file>
+    <file>Resources/Backup-1.png</file>
+    <file>Resources/BackUp-4.png</file>
+    <file>Resources/Backup drive.png</file>
+    <file>Resources/Battery (1).png</file>
+    <file>Resources/Battery Charged.png</file>
+    <file>Resources/Battery -No charge.png</file>
+    <file>Resources/Blizzard17.png</file>
+    <file>Resources/bluetooth256.png</file>
+    <file>Resources/Burn CD-1.png</file>
+    <file>Resources/cn1.png</file>
+    <file>Resources/cn2.png</file>
+    <file>Resources/cn3.png</file>
+    <file>Resources/cn4.png</file>
+    <file>Resources/cn5.png</file>
+    <file>Resources/cn6.png</file>
+    <file>Resources/cn7.png</file>
+    <file>Resources/cn8.png</file>
+    <file>Resources/cn9.png</file>
+    <file>Resources/cn10.png</file>
+    <file>Resources/cn11.png</file>
+    <file>Resources/cn12.png</file>
+    <file>Resources/cn13.png</file>
+    <file>Resources/coffee.png</file>
+    <file>Resources/Color Classic Green.png</file>
+    <file>Resources/Color Classic, Performa 250, 275.png</file>
+    <file>Resources/Color Classic.png</file>
+    <file>Resources/Color, Blueberry.png</file>
+    <file>Resources/Color, Bondi-1.png</file>
+    <file>Resources/Color, Bondi.png</file>
+    <file>Resources/Color, Grape.png</file>
+    <file>Resources/Color, Graphite.png</file>
+    <file>Resources/Color, Indigo.png</file>
+    <file>Resources/Color, Lemon.png</file>
+    <file>Resources/Color, Lime.png</file>
+    <file>Resources/Color, Ruby.png</file>
+    <file>Resources/Color, Sage.png</file>
+    <file>Resources/Color, Strawberry.png</file>
+    <file>Resources/Color, Tangerine.png</file>
+    <file>Resources/Color, Titanium.png</file>
+    <file>Resources/Crystal_folder09.png</file>
+    <file>Resources/Crystal_folder10.png</file>
+    <file>Resources/Crystal_folder18.png</file>
+    <file>Resources/Crystal_folder19.png</file>
+    <file>Resources/Digital Image Bmp.png</file>
+    <file>Resources/DimageViewer.png</file>
+    <file>Resources/Folder Graphite-1.png</file>
+    <file>Resources/Folder Online aqua.png</file>
+    <file>Resources/hanukkah_03.png</file>
+    <file>Resources/terminalserver.png</file>
+  </qresource>
+</RCC>

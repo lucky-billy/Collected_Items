@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Pic_0.gif</file>
+        <file>Pic_1.gif</file>
+        <file>Pic_2.gif</file>
+        <file>Pic_3.gif</file>
+        <file>Pic_4.gif</file>
+        <file>Pic_5.gif</file>
+        <file>Pic_6.gif</file>
+        <file>Pic_7.gif</file>
+        <file>Pic_8.gif</file>
+        <file>Pic_9.gif</file>
+        <file>Pic_10.gif</file>
+        <file>Pic_11.gif</file>
+        <file>Pic_12.gif</file>
+        <file>Pic_13.gif</file>
+        <file>Pic_14.gif</file>
+        <file>Pic_15.gif</file>
+        <file>Pic_17.gif</file>
+        <file>Pic_18.gif</file>
+        <file>Pic_19.gif</file>
+        <file>Pic_20.jpg</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>Game.png</file>
+        <file>Tip.png</file>
+        <file>About.png</file>
+        <file>Rank.png</file>
+    </qresource>
+    <qresource prefix="/bar">
+        <file>bar1.png</file>
+        <file>bar2.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>clock.png</file>
+        <file>score.png</file>
+        <file>logo.png</file>
+        <file>background.png</file>
+        <file>scoretitle.png</file>
+        <file>cclook_zh.qm</file>
+    </qresource>
+    <qresource prefix="/digit">
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>9.png</file>
+    </qresource>
+</RCC>
