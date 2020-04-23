@@ -4,9 +4,9 @@
 
 ### CCLook - Link game
 
-### Calcular - Calculator
+### Calcular - Calculator demo
 
-### QCounter - Calculator
+### QCounter - Calculator demo
 
 ### High_Concurrency_Server - High concurrency server demo
 
@@ -14,6 +14,8 @@
 
 ### OpenGLScene - QGraphicsView 3D demo
 
-### QtQuickExamples - QtQuick controls
+### QtQuickExamples - Some QtQuick controls
 
-### DominoCalendar - Calendar
+### DominoCalendar - Calendar demo
+
+### Weather - Weather demo
